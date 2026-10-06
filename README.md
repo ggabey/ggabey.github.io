@@ -1,4 +1,4 @@
-Welcome To my Website 
+# Welcome To my Website 
 # ggabey.github.io
-# By Gabrielle Doucette
-# 2026
+By Gabrielle Doucette
+October 2026
